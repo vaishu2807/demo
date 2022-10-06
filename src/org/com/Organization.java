@@ -5,6 +5,7 @@ public class Organization implements client {
 	@Override
 	public void empName() {
 		System.out.println("employee name is vaishu");
+		System.out.println("vaishu");
 	}
 
 	@Override
